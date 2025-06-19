@@ -1,0 +1,13 @@
+{
+  "name": "com.OrderX8.Unity-Tool-Board",
+  "version": "1.0.0",
+  "displayName": "Unity Tool Board",
+  "description": "A unity package that includes devoloper tools that can help you in the Unity Editor.",
+  "unity": "2021.3",
+  "author": {
+    "name": "OrderX",
+    "url": "https://github.com/OrderX8"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
