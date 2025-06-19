@@ -11,6 +11,15 @@ public class ToolBoardWindow : EditorWindow
 
     private void OnGUI()
     {
-        GUILayout.Label("Editor Tools", EditorStyles.boldLabel);
+        GUILayout.Label("Basic Tools:");
+        GUILayout.Space(45);
+
+
+        GUILayout.Label("World");
+        if (GUILayout.Button(highDetail ? "Restore LOD" : "Force LOD to High Detail"))
+        {
+            QualitySettings.lodBias = highDetail ? 1f : 1000f;
+            highDetail = !highDetail;
+        }
     }
 }
