@@ -1,0 +1,6 @@
+# Git Ignore Files
+
+*.meta
+.vscode
+.DS_Store
+MyNotes/

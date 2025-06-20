@@ -3,6 +3,9 @@ using UnityEngine;
 
 public class ToolBoardWindow : EditorWindow
 {
+
+    private bool highDetail = false;
+
     [MenuItem("Tools/Tool Board")]
     public static void ShowWindow()
     {
