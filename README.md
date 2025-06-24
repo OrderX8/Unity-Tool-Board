@@ -25,7 +25,7 @@ It should look something like this:
   "dependencies": {
     "com.unity.something.somethingelse": "1.0.0",
     "com.unity.othersomething": "1.0.0", <- Don't forget this comma!
-    "com.orderx8.unitytoolboard": "file:/Users/orderx/Box/GitHub/Unity-Tool-Board"
+    "com.orderx8.unitytoolboard": "https://github.com/OrderX8/Unity-Tool-Board.git"
   }
 }
 ```

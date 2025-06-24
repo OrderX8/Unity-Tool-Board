@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "displayName": "Unity Tool Board",
   "description": "A unity package that includes devoloper tools that can help you in Unity.",
-  "unity": "2021.3",
+  "unity": "2022.3",
   "author": {
     "name": "OrderX",
     "url": "https://github.com/OrderX8"
