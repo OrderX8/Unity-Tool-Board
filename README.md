@@ -5,9 +5,32 @@ A unity package that includes tools that help you in the Unity Editor.
 
 ## Tools
 - Temporarily Disable LOD
-  -   Temporarily sets the LOD (level of detail) really high so that you can see all objects (even if their far away) that have a LOD component.
+  -   Temporarily sets the LOD (level of detail) really high so that you can see all objects that have a LOD component.
 
 
+## How to install package
+
+1. Find your Unity game's folder
+2. Open the folder called "Packages"
+3. Open up the "manifest.json" file
+4. Using any text/code editor scroll all the way down and add this:
+
+```
+"com.orderx8.unitytoolboard":"https://github.com/OrderX8/Unity-Tool-Board.git"
+```
+
+It should look something like this:
+```
+{
+  "dependencies": {
+    "com.unity.something.somethingelse": "1.0.0",
+    "com.unity.othersomething": "1.0.0", <- Don't forget this comma!
+    "com.orderx8.unitytoolboard": "file:/Users/orderx/Box/GitHub/Unity-Tool-Board"
+  }
+}
+```
+
+5. Open up your Unity Editor of your game and done!
 
 ## Contribution
 
