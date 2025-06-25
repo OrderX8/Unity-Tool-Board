@@ -1,12 +1,27 @@
-# Unity-Tool-Board
+# Unity Tool Board
 A unity package that includes tools that help you in the Unity Editor.
 
 > **In Development!**
+> I'm going to be working on this a lot more after I'm done with ver 0.1.0 of my PineOS game.
 
 ## Tools
+
+### Editor
+
+#### Tool Board
+
 - Temporarily Disable LOD
   -   Temporarily sets the LOD (level of detail) really high so that you can see all objects that have a LOD component.
+ 
 
+### Runtime
+
+> **In Development...**
+
+- Basic Scripts
+  - LinkedTransform
+  - LinkedRotation
+  - LinkedScale
 
 ## How to install package
 
@@ -30,7 +45,7 @@ It should look something like this:
 }
 ```
 
-5. Open up your Unity Editor of your game and done!
+5. Open up the Unity Editor of your game and done!
 
 ## Contribution
 
@@ -43,3 +58,12 @@ I'm more than happy if you want to help! Ways you can do this is by:
 ## License
 
 MIT license
+
+## Credits/Contributors
+
+**Manager/Main Developer:** OrderX
+
+**Contributors:**
+
+None yet :c
+
