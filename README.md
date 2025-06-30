@@ -2,7 +2,6 @@
 A unity package that includes tools that help you in the Unity Editor.
 
 > **In Development!**
-> I'm going to be working on this a lot more after I'm done with ver 0.1.0 of my PineOS game.
 
 ## Tools
 
@@ -12,16 +11,15 @@ A unity package that includes tools that help you in the Unity Editor.
 
 - Temporarily Disable LOD
   -   Temporarily sets the LOD (level of detail) really high so that you can see all objects that have a LOD component.
- 
 
 ### Runtime
 
-> **In Development...**
-
 - Basic Scripts
-  - LinkedTransform
-  - LinkedRotation
-  - LinkedScale
+  - LinkedTransforms
+    - LinkedTransform
+    - LinkedPosition
+    - LinkedRotation
+    - LinkedScale
 
 ## How to install package
 
