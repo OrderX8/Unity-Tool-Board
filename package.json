@@ -1,6 +1,6 @@
 {
   "name": "com.orderx8.unitytoolboard",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "displayName": "Unity Tool Board",
   "description": "A unity package that includes devoloper tools that can help you in Unity.",
   "unity": "2022.3",
