@@ -8,9 +8,8 @@ namespace UnityToolBoard
         void Update()
         {
             transform.position = targetObject.position;
-
-            //transform.rotation = linkedObject.rotation;
-            //transform.localScale = linkedObject.localScale;
+            transform.rotation = targetObject.rotation;
+            transform.localScale = targetObject.localScale;
         }
     }
 }

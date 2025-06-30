@@ -18,10 +18,14 @@ A unity package that includes tools that help you in the Unity Editor.
 
 > **In Development...**
 
+### Runtime
+
 - Basic Scripts
-  - LinkedTransform
-  - LinkedRotation
-  - LinkedScale
+  - LinkedTransforms
+    - LinkedTransform
+    - LinkedPosition
+    - LinkedRotation
+    - LinkedScale
 
 ## How to install package
 
